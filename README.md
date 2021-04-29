@@ -8,3 +8,10 @@ ProxyConnection uses the Proxy Design Pattern to first check if the hostname ent
 
 Resources Used:
 https://refactoring.guru/design-patterns/proxy
+
+
+To run:
+```C++
+make 
+./main
+```
